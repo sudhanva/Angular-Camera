@@ -8,7 +8,8 @@ A small angular app to access camera and also to capture the photos
 
   - Access from Smartphone camera
   - capture photos
-  - Magic
+  
+  Need Webcam to test from PC or Open from smart devices
 
 # [Demo](https://angular-pkt86l.stackblitz.io/)
 
